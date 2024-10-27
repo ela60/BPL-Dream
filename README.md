@@ -1,5 +1,5 @@
 # BPL-Dream 🌟
-- see the project(https://famous-banoffee-4736d4.netlify.app/)
+- see the project (https://famous-banoffee-4736d4.netlify.app/)
 - BPL-Dream is a dynamic web application designed for cricket fans who want to create their fantasy teams based on the Bangladesh Premier League (BPL) lineup. Users can choose players, track coins, and view schedules in a streamlined, intuitive platform.
 
 # 📌 Project Overview
